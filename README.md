@@ -12,3 +12,5 @@
 ### Java
 - [StringTokenizer vs Split](https://www.geeksforgeeks.org/difference-between-stringtokenizer-and-split-method-in-java/)
 - [일급 컬렉션](https://jojoldu.tistory.com/412)
+- [우테코 프리코스 피드백 01](https://kyleyj.tistory.com/41)
+- [우테코 프리코스 피드백 02](https://os94.tistory.com/130)
