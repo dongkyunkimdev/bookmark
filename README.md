@@ -4,6 +4,7 @@
 ## Contents
 1. [Git](#git)
 2. [Java](#java)
+3. [Data Structure](#data-structure)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -16,3 +17,6 @@
 - [우테코 프리코스 피드백 02](https://os94.tistory.com/130)
 - [Buffer](https://rlakuku-program.tistory.com/33)
 - [Stream](https://galid1.tistory.com/674)
+
+### Data Structure
+- [Priority Queue](https://coding-factory.tistory.com/603)
