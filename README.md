@@ -24,3 +24,4 @@
 
 ### Spring
 - [Spring Framework 디자인 패턴](https://blog.naver.com/PostView.nhn?blogId=hj_kim97&logNo=222295968816)
+- [객체지향 설계 원칙](https://youngjinmo.github.io/2021/04/principles-of-oop/)
