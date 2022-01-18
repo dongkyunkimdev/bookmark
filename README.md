@@ -8,7 +8,7 @@
 4. [Spring](#spring)
 5. [Refactoring](#refactoring)
 6. [GoF Design Pattern](#gof-design-pattern)
-7. [개발 방법론](#개발-방법론)
+7. [소프트웨어 개발 방법론](#소프트웨어-개발-방법론)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
