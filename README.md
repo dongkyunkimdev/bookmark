@@ -7,6 +7,7 @@
 3. [Data Structure](#data-structure)
 4. [Spring](#spring)
 5. [Refactoring](#refactoring)
+6. [GoF Design Pattern](#gof-design-pattern)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -29,3 +30,7 @@
 ### Refactoring
 - [우테코 프리코스 피드백 01](https://kyleyj.tistory.com/41)
 - [우테코 프리코스 피드백 02](https://os94.tistory.com/130)
+
+### GoF Design Pattern
+- [Proxy 패턴의 사용 이유, 구현 및 Spring에서의 사용](https://www.youtube.com/watch?v=tes_ekyB6U8&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
+- [Singleton 패턴의 사용 이유, Thread-safe하게 구현하는 방법](https://www.youtube.com/watch?v=OwOEGhAo3pI&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
