@@ -9,6 +9,7 @@
 5. [Refactoring](#refactoring)
 6. [GoF Design Pattern](#gof-design-pattern)
 7. [소프트웨어 개발 방법론](#소프트웨어-개발-방법론)
+8. [Auth](#auth)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -41,3 +42,8 @@
 ### 소프트웨어 개발 방법론
 - [TDD: Test Driven Development](https://media.fastcampus.co.kr/knowledge/dev/tdd/)
 - [애자일 방법론](https://www.redhat.com/ko/devops/what-is-agile-methodology)
+
+## Auth
+- [JWT](http://www.opennaru.com/opennaru-blog/jwt-json-web-token/)
+- [Cookie & Session](https://nesoy.github.io/articles/2017-03/Session-Cookie)
+- [Spring Security](https://mangkyu.tistory.com/76)
