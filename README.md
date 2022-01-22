@@ -11,6 +11,7 @@
 7. [소프트웨어 개발 방법론](#소프트웨어-개발-방법론)
 8. [Auth](#auth)
 9. [Http](#http)
+10. [개발자의 회고록](#개발자의-회고록)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -53,3 +54,6 @@
 
 ### Http
 - [Http 응답코드, 메서드](https://javaplant.tistory.com/18)
+
+### 개발자의 회고록
+- [Spring 개발자의 회고록 01](https://changrea.io/spring/spring-develop-tip/)
