@@ -31,6 +31,7 @@
 
 ### Spring
 - [DTO, VO, Entity](https://youngjinmo.github.io/2021/04/dto-vo-entity/)
+- [ControllerAdvice](https://jeong-pro.tistory.com/195)
 
 ### Refactoring
 - [우테코 프리코스 피드백 01](https://kyleyj.tistory.com/41)
