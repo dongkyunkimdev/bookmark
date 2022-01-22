@@ -27,6 +27,7 @@
 - [Priority Queue](https://coding-factory.tistory.com/603)
 
 ### Spring
+- [DTO, VO, Entity](https://youngjinmo.github.io/2021/04/dto-vo-entity/)
 
 ### Refactoring
 - [우테코 프리코스 피드백 01](https://kyleyj.tistory.com/41)
