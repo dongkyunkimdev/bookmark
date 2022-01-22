@@ -61,3 +61,4 @@
 
 ### JPA
 - [공통 컬럼 상속](https://thalals.tistory.com/m/228)
+- [Auditing](https://webcoding-start.tistory.com/53)
