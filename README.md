@@ -22,6 +22,7 @@
 - [Buffer](https://rlakuku-program.tistory.com/33)
 - [Stream](https://galid1.tistory.com/674)
 - [Auto Unboxing과 NPE](https://velog.io/@june0313/Java-%EC%98%A4%ED%86%A0%EB%B0%95%EC%8B%B1%EA%B3%BC-Null-Pointer-Exception)
+- [Builder Pattern](https://mangkyu.tistory.com/163)
 
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
