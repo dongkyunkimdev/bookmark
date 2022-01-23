@@ -65,3 +65,7 @@
 - [Auditing](https://webcoding-start.tistory.com/53)
 - [findById vs findAll](https://www.inflearn.com/questions/6187)
 - [N+1 문제](https://wwlee94.github.io/category/blog/spring-jpa-n+1-query/)
+
+### API
+- [REST API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API)
+- [Swagger](https://velog.io/@banjjoknim/Swagger)
