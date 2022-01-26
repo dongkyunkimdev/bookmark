@@ -6,14 +6,15 @@
 2. [Java](#java)
 3. [Data Structure](#data-structure)
 4. [Spring](#spring)
-5. [Refactoring](#refactoring)
-6. [GoF Design Pattern](#gof-design-pattern)
-7. [소프트웨어 개발 방법론](#소프트웨어-개발-방법론)
-8. [Auth](#auth)
-9. [Http](#http)
-10. [개발자의 회고록](#개발자의-회고록)
-11. [JPA](#jpa)
-12. [API](#api)
+5. [Spring Security](#spring-security)
+6. [Refactoring](#refactoring)
+7. [GoF Design Pattern](#gof-design-pattern)
+8. [소프트웨어 개발 방법론](#소프트웨어-개발-방법론)
+9. [Auth](#auth)
+10. [Http](#http)
+11. [개발자의 회고록](#개발자의-회고록)
+12. [JPA](#jpa)
+13. [API](#api)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -35,6 +36,9 @@
 - [DTO, VO, Entity](https://youngjinmo.github.io/2021/04/dto-vo-entity/)
 - [ControllerAdvice](https://jeong-pro.tistory.com/195)
 - [GenericFilterBean vs OncePerRequestFilter](https://emgc.tistory.com/119)
+
+### Spring Security
+- [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
 
 ### Refactoring
 - [우테코 프리코스 피드백 01](https://kyleyj.tistory.com/41)
