@@ -40,6 +40,7 @@
 - [Exception 전략](https://cheese10yun.github.io/spring-guide-exception/)
 - [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
 - [실무에서의 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
+- [도메인 객체 사용 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/domain-guide.md)
 
 ### Spring Security
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
