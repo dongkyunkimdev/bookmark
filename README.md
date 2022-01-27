@@ -47,6 +47,7 @@
 - [우테코 프리코스 피드백 02](https://os94.tistory.com/130)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - [테스트코드 작성 5원칙](https://yhmane.tistory.com/220)
+- [디렉토리 구조(계층형, 도메인형)](https://github.com/cheese10yun/spring-guide/blob/master/docs/directory-guide.md)
 
 ### GoF Design Pattern
 - [Proxy 패턴의 사용 이유, 구현 및 Spring에서의 사용](https://www.youtube.com/watch?v=tes_ekyB6U8&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
