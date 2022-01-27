@@ -69,6 +69,7 @@
 
 ### 개발자의 회고록
 - [Spring 개발자의 회고록 01](https://changrea.io/spring/spring-develop-tip/)
+- [Spring 개발자의 회고록 02](https://techblog.woowahan.com/2504/)
 
 ### JPA
 - [공통 컬럼 상속](https://thalals.tistory.com/m/228)
