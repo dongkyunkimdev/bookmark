@@ -15,6 +15,7 @@
 11. [개발자의 회고록](#개발자의-회고록)
 12. [JPA](#jpa)
 13. [API](#api)
+14. [Test](#test)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -87,3 +88,6 @@
 - [Swagger](https://velog.io/@banjjoknim/Swagger)
 - [API 응답 객체 구조](https://oriondigestive.medium.com/api-%EC%9D%91%EB%8B%B5-%EA%B0%9D%EC%B2%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-7942e67379b1)
 - [API Call 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/api-call-guide.md)
+
+### Test
+- [Test 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/test-guide.md)
