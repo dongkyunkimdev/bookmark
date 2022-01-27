@@ -37,6 +37,7 @@
 - [ControllerAdvice](https://jeong-pro.tistory.com/195)
 - [GenericFilterBean vs OncePerRequestFilter](https://emgc.tistory.com/119)
 - [Domain Layer에서의 비즈니스 로직 처리](https://velog.io/@ovan/Domain-Layer%EC%97%90%EC%84%9C-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [Exception 전략](https://cheese10yun.github.io/spring-guide-exception/)
 
 ### Spring Security
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
