@@ -42,6 +42,7 @@
 - [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
 - [실무에서의 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
 - [도메인 객체 사용 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/domain-guide.md)
+- [DTO의 사용 범위에 대하여](https://tecoble.techcourse.co.kr/post/2021-04-25-dto-layer-scope/)
 
 ### Spring Security
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
