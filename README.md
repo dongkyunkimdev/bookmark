@@ -51,7 +51,6 @@
 - [우테코 프리코스 피드백 01](https://kyleyj.tistory.com/41)
 - [우테코 프리코스 피드백 02](https://os94.tistory.com/130)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-- [테스트코드 작성 5원칙](https://yhmane.tistory.com/220)
 - [디렉토리 구조(계층형, 도메인형)](https://github.com/cheese10yun/spring-guide/blob/master/docs/directory-guide.md)
 
 ### GoF Design Pattern
@@ -93,3 +92,4 @@
 ### Test
 - [Test 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/test-guide.md)
 - [Mockito의 올바른 사용법](https://tecoble.techcourse.co.kr/post/2020-10-16-is-ok-mockito/)
+- [테스트코드 작성 5원칙](https://yhmane.tistory.com/220)
