@@ -91,3 +91,4 @@
 
 ### Test
 - [Test 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/test-guide.md)
+- [Mockito의 올바른 사용법](https://tecoble.techcourse.co.kr/post/2020-10-16-is-ok-mockito/)
