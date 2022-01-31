@@ -46,6 +46,7 @@
 
 ### Spring Security
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
+- [Spring Security](https://mangkyu.tistory.com/76)
 
 ### Refactoring
 - [우테코 프리코스 피드백 01](https://kyleyj.tistory.com/41)
@@ -66,7 +67,6 @@
 ### Auth
 - [JWT](http://www.opennaru.com/opennaru-blog/jwt-json-web-token/)
 - [Cookie & Session](https://nesoy.github.io/articles/2017-03/Session-Cookie)
-- [Spring Security](https://mangkyu.tistory.com/76)
 
 ### Http
 - [Http 응답코드, 메서드](https://javaplant.tistory.com/18)
