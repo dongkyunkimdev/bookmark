@@ -95,6 +95,7 @@
 - [Mockito의 올바른 사용법](https://tecoble.techcourse.co.kr/post/2020-10-16-is-ok-mockito/)
 - [테스트코드 작성 5원칙](https://yhmane.tistory.com/220)
 - [Spring Security가 적용된 곳의 효율적인 테스트 방법](https://tecoble.techcourse.co.kr/post/2020-09-30-spring-security-test/)
+- [Mockito vs BDDMockito](https://tecoble.techcourse.co.kr/post/2020-09-29-compare-mockito-bddmockito/)
 
 ### Network
 - [TCP/IP](https://aws-hyoh.tistory.com/entry/TCPIP-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
