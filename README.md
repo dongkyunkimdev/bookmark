@@ -83,6 +83,7 @@
 - [N+1 문제](https://wwlee94.github.io/category/blog/spring-jpa-n+1-query/)
 - [영속성 컨텍스트](https://willseungh0.tistory.com/65)
 - [JPQL Update와 영속성 컨텍스트](https://velog.io/@roro/JPA-JPQL-update-%EC%BF%BC%EB%A6%AC%EB%B2%8C%ED%81%AC%EC%99%80-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
+- [테이블간의 연관 관계](https://jeong-pro.tistory.com/231)
 
 ### API
 - [REST API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API)
