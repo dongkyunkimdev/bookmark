@@ -87,6 +87,7 @@
 - [테이블간의 연관 관계](https://jeong-pro.tistory.com/231)
 - [Transactional reanOnly 사용의 이점](https://cupeanimus.tistory.com/90)
 - [get vs find](https://bcp0109.tistory.com/325)
+- [Fetch Join](https://minkukjo.github.io/framework/2021/01/04/Spring-Data-JPA-27/)
 
 ### API
 - [REST API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API)
