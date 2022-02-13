@@ -90,6 +90,7 @@
 - [get vs find](https://bcp0109.tistory.com/325)
 - [Fetch Join](https://minkukjo.github.io/framework/2021/01/04/Spring-Data-JPA-27/)
 - [EntityGraph](https://blog.leocat.kr/notes/2019/05/26/spring-data-using-entitygraph-to-customize-fetch-graph)
+- [QueryDSL](https://madplay.github.io/post/introduction-to-querydsl)
 
 ### API
 - [REST API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API)
