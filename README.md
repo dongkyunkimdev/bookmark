@@ -114,3 +114,4 @@
 - [Vue3 정리](https://velog.io/@kdeun1/Vue-3-Composition-API-TypeScript-Vuex-4%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
 - [Prettier, ESLint 적용](https://joshua1988.github.io/web-development/vuejs/boost-productivity/)
 - [디렉토리 구조](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
+- [실무 가이드](https://jess2.xyz/vue/vue-tip/)
