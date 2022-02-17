@@ -115,3 +115,4 @@
 - [Prettier, ESLint 적용](https://joshua1988.github.io/web-development/vuejs/boost-productivity/)
 - [디렉토리 구조](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
 - [실무 가이드](https://jess2.xyz/vue/vue-tip/)
+- [라이프사이클 훅](https://v3.ko.vuejs.org/api/options-lifecycle-hooks.html#beforecreate)
