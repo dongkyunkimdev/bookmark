@@ -18,6 +18,7 @@
 14. [Test](#test)
 15. [Network](#network)
 16. [Vue](#vue)
+17. [Linux](#linux)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -118,3 +119,6 @@
 - [실무 가이드](https://jess2.xyz/vue/vue-tip/)
 - [라이프사이클 훅](https://v3.ko.vuejs.org/api/options-lifecycle-hooks.html#beforecreate)
 - [Proxy](https://eunjinii.tistory.com/47)
+
+### Linux
+- [Chmod](https://webisfree.com/2015-01-02/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9C%A0%EB%8B%89%EC%8A%A4-%ED%8C%8C%EC%9D%BC-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-777-755)
