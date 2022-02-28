@@ -19,6 +19,7 @@
 15. [Network](#network)
 16. [Vue](#vue)
 17. [Linux](#linux)
+18. [Database](#database)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -124,3 +125,6 @@
 
 ### Linux
 - [Chmod](https://webisfree.com/2015-01-02/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9C%A0%EB%8B%89%EC%8A%A4-%ED%8C%8C%EC%9D%BC-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-777-755)
+
+### Database
+- [RDB vs NoSQL](https://khj93.tistory.com/entry/Database-RDBMS%EC%99%80-NOSQL-%EC%B0%A8%EC%9D%B4%EC%A0%90)
