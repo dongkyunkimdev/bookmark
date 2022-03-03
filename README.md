@@ -37,6 +37,8 @@
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
 - [Hash Table](https://hee96-story.tistory.com/48)
+- [Binary Search Tree](https://yaboong.github.io/data-structures/2018/02/12/binary-search-tree/)
+- [Red-black Tree](https://junboom.tistory.com/18)
 
 ### Spring
 - [DTO, VO, Entity](https://youngjinmo.github.io/2021/04/dto-vo-entity/)
