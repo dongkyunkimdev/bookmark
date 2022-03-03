@@ -36,6 +36,7 @@
 
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
+- [Hash Table](https://hee96-story.tistory.com/48)
 
 ### Spring
 - [DTO, VO, Entity](https://youngjinmo.github.io/2021/04/dto-vo-entity/)
