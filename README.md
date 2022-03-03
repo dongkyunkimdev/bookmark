@@ -35,6 +35,7 @@
 - [Optional 바르게 쓰기](https://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
 - [Java의 메모리 관리](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
 - [JVM](https://doozi0316.tistory.com/entry/1%EC%A3%BC%EC%B0%A8-JVM%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%9E%90%EB%B0%94-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B8%EA%B0%80)
+- [Java 11 변경사항](https://livenow14.tistory.com/81)
 
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
