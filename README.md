@@ -33,7 +33,7 @@
 - [Auto Unboxing과 NPE](https://velog.io/@june0313/Java-%EC%98%A4%ED%86%A0%EB%B0%95%EC%8B%B1%EA%B3%BC-Null-Pointer-Exception)
 - [Builder Pattern](https://mangkyu.tistory.com/163)
 - [Optional 바르게 쓰기](https://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
-- [Java의 메모리 ](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
+- [Java의 메모리 관리](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
 
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
