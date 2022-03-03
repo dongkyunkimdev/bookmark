@@ -39,6 +39,7 @@
 - [Hash Table](https://hee96-story.tistory.com/48)
 - [Binary Search Tree](https://yaboong.github.io/data-structures/2018/02/12/binary-search-tree/)
 - [Red-black Tree](https://junboom.tistory.com/18)
+- [Hash 충돌 대응책](https://junboom.tistory.com/27)
 
 ### Spring
 - [DTO, VO, Entity](https://youngjinmo.github.io/2021/04/dto-vo-entity/)
