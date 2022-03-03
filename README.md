@@ -37,6 +37,7 @@
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
 - [Hash Table](https://hee96-story.tistory.com/48)
+- [Tree](https://readerr.tistory.com/35)
 - [Binary Search Tree](https://yaboong.github.io/data-structures/2018/02/12/binary-search-tree/)
 - [Red-black Tree](https://junboom.tistory.com/18)
 - [Hash 충돌 대응책](https://junboom.tistory.com/27)
