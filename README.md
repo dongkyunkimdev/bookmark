@@ -144,3 +144,4 @@
 ### Database
 - [RDB vs NoSQL](https://khj93.tistory.com/entry/Database-RDBMS%EC%99%80-NOSQL-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [ElasticSearch](https://velog.io/@yundleyundle/ElasticSearch-%EA%B0%9C%EB%85%90%EC%9D%84-%EC%9D%B5%ED%98%80%EB%B3%B4%EC%9E%90)
+- [B-tree, B+tree와 인덱스](https://zorba91.tistory.com/293)
