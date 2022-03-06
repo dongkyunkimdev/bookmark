@@ -127,6 +127,7 @@
 - [Docker, kubernetes](https://zzsza.github.io/development/2018/04/17/docker-kubernetes/)
 - [REST API](http://www.incodom.kr/RestFul_API)
 - [OSI 7Layer](https://aws-hyoh.tistory.com/50)
+- [L4, L7 로드밸런서](https://jaehoney.tistory.com/73)
 
 ### Vue
 - [Vue3 정리](https://velog.io/@kdeun1/Vue-3-Composition-API-TypeScript-Vuex-4%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
