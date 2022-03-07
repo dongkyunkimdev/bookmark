@@ -62,6 +62,7 @@
 - [Spring Cloud](https://www.samsungsds.com/kr/insights/spring_cloud.html)
 - [Spring MVC 라이프사이클](https://hermeslog.tistory.com/446)
 - [Component, Configuration, Bean 차이](https://yhmane.tistory.com/129)
+- [의존성 주입 방식 3가지](https://woodcock.tistory.com/8)
 
 ### Spring Security
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
