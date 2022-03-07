@@ -61,6 +61,7 @@
 - [PSA를 활용한 테스트 가능한 코드 작성법](https://www.youtube.com/watch?v=bJfbPWEMj_c&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
 - [Spring Cloud](https://www.samsungsds.com/kr/insights/spring_cloud.html)
 - [Spring MVC 라이프사이클](https://hermeslog.tistory.com/446)
+- [Component, Configuration, Bean 차이](https://yhmane.tistory.com/129)
 
 ### Spring Security
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
