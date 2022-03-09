@@ -20,6 +20,7 @@
 16. [Vue](#vue)
 17. [Linux](#linux)
 18. [Database](#database)
+19. [etc](#etc)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -150,3 +151,6 @@
 - [B-tree, B+tree와 인덱스](https://zorba91.tistory.com/293)
 - [DB 인덱스로 B-tree를 사용하는 이유](https://helloinyong.tistory.com/296)
 - [B-tree, Hash 인덱스](https://velog.io/@soongjamm/%EC%9D%B8%EB%8D%B1%EC%8A%A4-B-TreeHash-Index)
+
+### etc
+- [Effective Java 핵심 요약](https://mangkyu.tistory.com/133)
