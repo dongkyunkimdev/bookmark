@@ -40,6 +40,7 @@
 - [Java 8 변경사항](https://livenow14.tistory.com/73)
 - [Thread 동기화 방법](https://kyun2.tistory.com/12)
 - [JVM Garbage Collectors의 종류](https://ckddn9496.tistory.com/155)
+- [try-with-resources](https://mangkyu.tistory.com/217?category=872426)
 
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
