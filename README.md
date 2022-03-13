@@ -134,6 +134,7 @@
 - [OSI 7Layer](https://aws-hyoh.tistory.com/50)
 - [L4, L7 로드밸런서](https://jaehoney.tistory.com/73)
 - [Http, Https](https://devjem.tistory.com/3)
+- [Deadlock](https://jwprogramming.tistory.com/12)
 
 ### Vue
 - [Vue3 정리](https://velog.io/@kdeun1/Vue-3-Composition-API-TypeScript-Vuex-4%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
