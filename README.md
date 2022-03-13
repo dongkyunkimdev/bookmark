@@ -135,6 +135,7 @@
 - [L4, L7 로드밸런서](https://jaehoney.tistory.com/73)
 - [Http, Https](https://devjem.tistory.com/3)
 - [Deadlock](https://jwprogramming.tistory.com/12)
+- [TCP 3-way Handshake](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-22%ED%8E%B8-TCP-3-WayHandshake-4-WayHandshake)
 
 ### Vue
 - [Vue3 정리](https://velog.io/@kdeun1/Vue-3-Composition-API-TypeScript-Vuex-4%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
