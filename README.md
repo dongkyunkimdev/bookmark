@@ -87,6 +87,7 @@
 ### 소프트웨어 개발 방법론
 - [TDD: Test Driven Development](https://media.fastcampus.co.kr/knowledge/dev/tdd/)
 - [애자일 방법론](https://www.redhat.com/ko/devops/what-is-agile-methodology)
+- [스크럼 vs 칸반](https://pineoc.github.io/study/study/agile-study/Scrum-Kanban.html)
 
 ### Auth
 - [JWT](http://www.opennaru.com/opennaru-blog/jwt-json-web-token/)
