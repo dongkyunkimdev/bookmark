@@ -167,3 +167,4 @@
 - [Effective Java 핵심 요약](https://mangkyu.tistory.com/133)
 - [Jira 시작](https://blog.naver.com/PostView.naver?blogId=ironheel2&logNo=222391871969&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
 - [WebRTC](https://tech.kakaoenterprise.com/121)
+- [WebRTC 통신](https://gh402.tistory.com/45)
