@@ -169,3 +169,4 @@
 - [WebRTC](https://tech.kakaoenterprise.com/121)
 - [WebRTC 통신](https://gh402.tistory.com/45)
 - [능력있는 개발자를 알아보는 법](https://42place.innovationacademy.kr/archives/2461)
+- [Dreyfus model](https://shallaa.postach.io/post/deuraipeoseu-model-dreyfus-model)
