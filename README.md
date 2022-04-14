@@ -12,15 +12,15 @@
 8. [소프트웨어 개발 방법론](#소프트웨어-개발-방법론)
 9. [Auth](#auth)
 10. [Http](#http)
-11. [개발자의 회고록](#개발자의-회고록)
-12. [JPA](#jpa)
-13. [API](#api)
-14. [Test](#test)
-15. [Network](#network)
-16. [Vue](#vue)
-17. [Linux](#linux)
-18. [Database](#database)
-19. [etc](#etc)
+11. [JPA](#jpa)
+12. [API](#api)
+13. [Test](#test)
+14. [Network](#network)
+15. [Vue](#vue)
+16. [Linux](#linux)
+17. [Database](#database)
+19. [주옥같은 글](#주옥같은-글)
+20. [협업](#협업)
 
 ### VCS
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -42,6 +42,7 @@
 - [Thread 동기화 방법](https://kyun2.tistory.com/12)
 - [JVM Garbage Collectors의 종류](https://ckddn9496.tistory.com/155)
 - [try-with-resources](https://mangkyu.tistory.com/217?category=872426)
+- [Effective Java 핵심 요약](https://mangkyu.tistory.com/133)
 
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
@@ -95,10 +96,6 @@
 
 ### Http
 - [Http 응답코드, 메서드](https://javaplant.tistory.com/18)
-
-### 개발자의 회고록
-- [Spring 개발자의 회고록 01](https://changrea.io/spring/spring-develop-tip/)
-- [Spring 개발자의 회고록 02](https://techblog.woowahan.com/2504/)
 
 ### JPA
 - [공통 컬럼 상속](https://thalals.tistory.com/m/228)
@@ -163,10 +160,15 @@
 - [B-tree, Hash 인덱스](https://velog.io/@soongjamm/%EC%9D%B8%EB%8D%B1%EC%8A%A4-B-TreeHash-Index)
 - [DB 튜닝](http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%9C%EB%8B%9D-db-tuning/)
 
-### etc
-- [Effective Java 핵심 요약](https://mangkyu.tistory.com/133)
-- [Jira 시작](https://blog.naver.com/PostView.naver?blogId=ironheel2&logNo=222391871969&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
+### WebRTC
 - [WebRTC](https://tech.kakaoenterprise.com/121)
 - [WebRTC 통신](https://gh402.tistory.com/45)
+
+### 주옥같은 글
+- [Spring 개발자의 회고록 01](https://changrea.io/spring/spring-develop-tip/)
+- [Spring 개발자의 회고록 02](https://techblog.woowahan.com/2504/)
 - [능력있는 개발자를 알아보는 법](https://42place.innovationacademy.kr/archives/2461)
 - [Dreyfus model](https://shallaa.postach.io/post/deuraipeoseu-model-dreyfus-model)
+
+### 협업
+- [Jira 시작](https://blog.naver.com/PostView.naver?blogId=ironheel2&logNo=222391871969&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
