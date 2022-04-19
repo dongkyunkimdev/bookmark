@@ -85,6 +85,7 @@
 - [Singleton 패턴의 사용 이유, Thread-safe하게 구현하는 방법](https://www.youtube.com/watch?v=OwOEGhAo3pI&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
 - [Spring Framework 디자인 패턴](https://blog.naver.com/PostView.nhn?blogId=hj_kim97&logNo=222295968816)
 - [객체지향 설계 원칙](https://youngjinmo.github.io/2021/04/principles-of-oop/)
+- [SAGA 패턴](https://azderica.github.io/01-architecture-msa/)
 
 ### 소프트웨어 개발 방법론
 - [TDD: Test Driven Development](https://media.fastcampus.co.kr/knowledge/dev/tdd/)
