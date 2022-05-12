@@ -182,7 +182,7 @@
 - [Docker 사용 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 
 ### MSA 아키텍처
-- [SAGA 패턴](https://azderica.github.io/01-architecture-msa/)
+- [Two Phase Commit과 SAGA 패턴](https://azderica.github.io/01-architecture-msa/)
 
 ### Computer Science
 - [동기와 비동기, 블럭과 넌블럭](https://musma.github.io/2019/04/17/blocking-and-synchronous.html)
