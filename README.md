@@ -22,6 +22,7 @@
 19. [주옥같은 글](#주옥같은-글)
 20. [협업](#협업)
 21. [Docker](#docker)
+22. [MSA 아키텍처](#msa-아키텍처)
 
 ### VCS
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -177,3 +178,6 @@
 
 ### Docker
 - [Docker 사용 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+
+### MSA 아키텍처
+- [SAGA 패턴](https://azderica.github.io/01-architecture-msa/)
