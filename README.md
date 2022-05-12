@@ -23,6 +23,7 @@
 20. [협업](#협업)
 21. [Docker](#docker)
 22. [MSA 아키텍처](#msa-아키텍처)
+23. [Computer Science](#computer-science)
 
 ### VCS
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -69,6 +70,7 @@
 - [Spring MVC 라이프사이클](https://hermeslog.tistory.com/446)
 - [Component, Configuration, Bean 차이](https://yhmane.tistory.com/129)
 - [의존성 주입 방식 3가지](https://woodcock.tistory.com/8)
+- [RestTemplate과 WebClient](https://tecoble.techcourse.co.kr/post/2021-07-25-resttemplate-webclient/)
 
 ### Spring Security
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
@@ -181,3 +183,6 @@
 
 ### MSA 아키텍처
 - [SAGA 패턴](https://azderica.github.io/01-architecture-msa/)
+
+### Computer Science
+- [동기와 비동기, 블럭과 넌블럭](https://musma.github.io/2019/04/17/blocking-and-synchronous.html)
