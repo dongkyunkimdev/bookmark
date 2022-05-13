@@ -186,3 +186,6 @@
 
 ### Computer Science
 - [동기와 비동기, 블럭과 넌블럭](https://musma.github.io/2019/04/17/blocking-and-synchronous.html)
+
+### I/O
+- [TUS 파일 업로드](https://w.cublr.com/application/tus/)
