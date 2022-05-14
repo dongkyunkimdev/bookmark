@@ -89,6 +89,7 @@
 - [Spring Framework 디자인 패턴](https://blog.naver.com/PostView.nhn?blogId=hj_kim97&logNo=222295968816)
 - [객체지향 설계 원칙](https://youngjinmo.github.io/2021/04/principles-of-oop/)
 - [SAGA 패턴](https://azderica.github.io/01-architecture-msa/)
+- [DDD, Clean Architecture, Hexagonal Architecture](https://dataportal.kr/74)
 
 ### 소프트웨어 개발 방법론
 - [TDD: Test Driven Development](https://media.fastcampus.co.kr/knowledge/dev/tdd/)
