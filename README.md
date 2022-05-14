@@ -24,6 +24,7 @@
 21. [Docker](#docker)
 22. [MSA 아키텍처](#msa-아키텍처)
 23. [Computer Science](#computer-science)
+24. [보안](#보안)
 
 ### VCS
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -190,3 +191,6 @@
 
 ### I/O
 - [TUS 파일 업로드](https://w.cublr.com/application/tus/)
+
+### 보안
+- [CSRF Token](https://codevang.tistory.com/282)
