@@ -176,6 +176,7 @@
 - [Spring 개발자의 회고록 02](https://techblog.woowahan.com/2504/)
 - [능력있는 개발자를 알아보는 법](https://42place.innovationacademy.kr/archives/2461)
 - [Dreyfus model](https://shallaa.postach.io/post/deuraipeoseu-model-dreyfus-model)
+- [우아한 멀티 모듈 세미나](https://hyeon9mak.github.io/woowahan-multi-module/)
 
 ### 협업
 - [Jira 시작](https://blog.naver.com/PostView.naver?blogId=ironheel2&logNo=222391871969&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
