@@ -186,6 +186,8 @@
 
 ### MSA 아키텍처
 - [Two Phase Commit과 SAGA 패턴](https://azderica.github.io/01-architecture-msa/)
+- [MSA의 기준과 DB 분리](https://waspro.tistory.com/718)
+- [MSA의 분산 DB 설계](https://waspro.tistory.com/724)
 
 ### Computer Science
 - [동기와 비동기, 블럭과 넌블럭](https://musma.github.io/2019/04/17/blocking-and-synchronous.html)
