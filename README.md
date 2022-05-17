@@ -7,7 +7,7 @@
 3. [Data Structure](#data-structure)
 4. [Spring](#spring)
 5. [Spring Security](#spring-security)
-6. [Refactoring](#refactoring)
+6. [Clean Code](#clean-code)
 7. [GoF Design Pattern](#gof-design-pattern)
 8. [소프트웨어 개발 방법론](#소프트웨어-개발-방법론)
 9. [Auth](#auth)
@@ -77,12 +77,13 @@
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
 - [Spring Security](https://mangkyu.tistory.com/76)
 
-### Refactoring
+### Clean code
 - [우테코 프리코스 피드백 01](https://kyleyj.tistory.com/41)
 - [우테코 프리코스 피드백 02](https://os94.tistory.com/130)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - [디렉토리 구조(계층형, 도메인형)](https://github.com/cheese10yun/spring-guide/blob/master/docs/directory-guide.md)
 - [코드의 22가지 악취](https://kishe89.github.io/java/2018/01/04/java-refactoring-00-intro.html)
+- [Guard Clause](https://velog.io/@swhan9404/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-Guard-Clause)
 
 ### GoF Design Pattern
 - [Proxy 패턴의 사용 이유, 구현 및 Spring에서의 사용](https://www.youtube.com/watch?v=tes_ekyB6U8&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
