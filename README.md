@@ -98,6 +98,7 @@
 - [TDD: Test Driven Development](https://media.fastcampus.co.kr/knowledge/dev/tdd/)
 - [애자일 방법론](https://www.redhat.com/ko/devops/what-is-agile-methodology)
 - [스크럼 vs 칸반](https://pineoc.github.io/study/study/agile-study/Scrum-Kanban.html)
+- [데일리 스크럼](https://gmlwjd9405.github.io/2018/06/01/agile-dailyscrum.html)
 
 ### Auth
 - [JWT](http://www.opennaru.com/opennaru-blog/jwt-json-web-token/)
