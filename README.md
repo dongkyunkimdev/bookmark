@@ -20,22 +20,17 @@
 16. [Linux](#linux)
 17. [Database](#database)
 19. [주옥같은 글](#주옥같은-글)
-20. [협업](#협업)
-21. [Docker](#docker)
-22. [MSA 아키텍처](#msa-아키텍처)
-23. [Computer Science](#computer-science)
-24. [보안](#보안)
+20. [Docker](#docker)
+21. [MSA 아키텍처](#msa-아키텍처)
+22. [Computer Science](#computer-science)
+23. [보안](#보안)
 
 ### VCS
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
 - [Commit messages guide 02](https://beomseok95.tistory.com/328)
-- [Bitbucket](https://ithub.tistory.com/116)
 
 ### Java
-- [StringTokenizer vs Split](https://www.geeksforgeeks.org/difference-between-stringtokenizer-and-split-method-in-java/)
 - [일급 컬렉션](https://jojoldu.tistory.com/412)
-- [Buffer](https://rlakuku-program.tistory.com/33)
-- [Stream](https://galid1.tistory.com/674)
 - [Auto Unboxing과 NPE](https://velog.io/@june0313/Java-%EC%98%A4%ED%86%A0%EB%B0%95%EC%8B%B1%EA%B3%BC-Null-Pointer-Exception)
 - [Builder Pattern](https://mangkyu.tistory.com/163)
 - [Optional 바르게 쓰기](https://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
@@ -124,6 +119,7 @@
 
 ### API
 - [REST API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API)
+- [당신이 만든 건 REST가 아니지만 괜찮아](http://haah.kr/2017/06/28/rest-the-coclusion/)
 - [Swagger](https://velog.io/@banjjoknim/Swagger)
 - [API 응답 객체 구조](https://oriondigestive.medium.com/api-%EC%9D%91%EB%8B%B5-%EA%B0%9D%EC%B2%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-7942e67379b1)
 - [API Call 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/api-call-guide.md)
@@ -180,9 +176,6 @@
 - [능력있는 개발자를 알아보는 법](https://42place.innovationacademy.kr/archives/2461)
 - [Dreyfus model](https://shallaa.postach.io/post/deuraipeoseu-model-dreyfus-model)
 - [우아한 멀티 모듈 세미나](https://hyeon9mak.github.io/woowahan-multi-module/)
-
-### 협업
-- [Jira 시작](https://blog.naver.com/PostView.naver?blogId=ironheel2&logNo=222391871969&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
 
 ### Docker
 - [Docker 사용 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
