@@ -19,11 +19,12 @@
 15. [Vue](#vue)
 16. [Linux](#linux)
 17. [Database](#database)
-19. [주옥같은 글](#주옥같은-글)
-20. [Docker](#docker)
-21. [MSA 아키텍처](#msa-아키텍처)
-22. [Computer Science](#computer-science)
-23. [보안](#보안)
+18. [주옥같은 글](#주옥같은-글)
+19. [Docker](#docker)
+20. [MSA 아키텍처](#msa-아키텍처)
+21. [Computer Science](#computer-science)
+22. [보안](#보안)
+23. [기타](#기타)
 
 ### VCS
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -195,3 +196,6 @@
 
 ### 보안
 - [CSRF Token](https://codevang.tistory.com/282)
+
+### 기타
+- [구글링 잘하는 법](https://zzang9ha.tistory.com/405)
