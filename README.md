@@ -187,6 +187,7 @@
 - [MSA의 분산 DB 설계](https://waspro.tistory.com/724)
 - [MSA 분산DB 데이터 분할, 동기화 설계](https://waspro.tistory.com/726)
 - [MSA DB 분리 설계](https://waspro.tistory.com/729)
+- [Eventual Consistency](https://velog.io/@soongjamm/Eventual-Consistency-%EB%9E%80)
 
 ### Computer Science
 - [동기와 비동기, 블럭과 넌블럭](https://musma.github.io/2019/04/17/blocking-and-synchronous.html)
