@@ -189,6 +189,7 @@
 - [MSA DB 분리 설계](https://waspro.tistory.com/729)
 - [Eventual Consistency](https://velog.io/@soongjamm/Eventual-Consistency-%EB%9E%80)
 - [이벤트 소싱](https://mjspring.medium.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%86%8C%EC%8B%B1-event-sourcing-%EA%B0%9C%EB%85%90-50029f50f78c)
+- [이벤트 기반 아키텍처 ](https://techblog.woowahan.com/7835/)
 
 ### Computer Science
 - [동기와 비동기, 블럭과 넌블럭](https://musma.github.io/2019/04/17/blocking-and-synchronous.html)
