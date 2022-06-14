@@ -117,6 +117,7 @@
 - [EntityGraph](https://blog.leocat.kr/notes/2019/05/26/spring-data-using-entitygraph-to-customize-fetch-graph)
 - [QueryDSL](https://madplay.github.io/post/introduction-to-querydsl)
 - [일대다 관계에서의 Fetch Join과 페이징 문제](https://tecoble.techcourse.co.kr/post/2020-10-21-jpa-fetch-join-paging/)
+- [OSIV](https://ykh6242.tistory.com/102)
 
 ### API
 - [REST API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API)
