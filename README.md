@@ -169,6 +169,7 @@
 - [DB 인덱스로 B-tree를 사용하는 이유](https://helloinyong.tistory.com/296)
 - [B-tree, Hash 인덱스](https://velog.io/@soongjamm/%EC%9D%B8%EB%8D%B1%EC%8A%A4-B-TreeHash-Index)
 - [DB 튜닝](http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%9C%EB%8B%9D-db-tuning/)
+- [Database Naming Convention](https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/)
 
 ### WebRTC
 - [WebRTC](https://tech.kakaoenterprise.com/121)
