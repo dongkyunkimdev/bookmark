@@ -2,7 +2,7 @@
 나에게 유용한 개발 관련 링크를 보관합니다.
 
 ## Contents
-1. [VCS](#vcs)
+1. [Git](#vcs)
 2. [Java](#java)
 3. [Data Structure](#data-structure)
 4. [Spring](#spring)
@@ -26,9 +26,10 @@
 22. [보안](#보안)
 23. [기타](#기타)
 
-### VCS
+### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
 - [Commit messages guide 02](https://beomseok95.tistory.com/328)
+- [Git Flow](https://techblog.woowahan.com/2553/)
 
 ### Java
 - [일급 컬렉션](https://jojoldu.tistory.com/412)
