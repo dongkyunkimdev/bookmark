@@ -30,6 +30,7 @@
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
 - [Commit messages guide 02](https://beomseok95.tistory.com/328)
 - [Git Flow](https://techblog.woowahan.com/2553/)
+- [Github Label 한 번에 적용](https://velog.io/@rimo09/Github-github-label-%ED%95%9C%EB%B2%88%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ### Java
 - [일급 컬렉션](https://jojoldu.tistory.com/412)
