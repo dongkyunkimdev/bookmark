@@ -2,7 +2,7 @@
 나에게 유용한 개발 관련 링크를 보관합니다.
 
 ## Contents
-1. [Git](#vcs)
+1. [Git](#git)
 2. [Java](#java)
 3. [Data Structure](#data-structure)
 4. [Spring](#spring)
