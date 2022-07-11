@@ -120,6 +120,7 @@
 - [QueryDSL](https://madplay.github.io/post/introduction-to-querydsl)
 - [일대다 관계에서의 Fetch Join과 페이징 문제](https://tecoble.techcourse.co.kr/post/2020-10-21-jpa-fetch-join-paging/)
 - [OSIV](https://ykh6242.tistory.com/102)
+- [우아한 형제들의 Querydsl 사용법](https://velog.io/@youngerjesus/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%98%95%EC%A0%9C%EB%93%A4%EC%9D%98-Querydsl-%ED%99%9C%EC%9A%A9%EB%B2%95)
 
 ### API
 - [REST API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API)
