@@ -25,6 +25,7 @@
 21. [Computer Science](#computer-science)
 22. [보안](#보안)
 23. [기타](#기타)
+24. [협업](#협업)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -208,3 +209,6 @@
 
 ### 기타
 - [구글링 잘하는 법](https://zzang9ha.tistory.com/405)
+
+### 협업
+- [지속가능한 SW 개발을 위한 코드리뷰 :: 4월 우아한테크세미나](https://www.youtube.com/watch?v=ssDMIcPBqUE&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
