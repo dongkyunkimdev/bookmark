@@ -184,6 +184,7 @@
 - [능력있는 개발자를 알아보는 법](https://42place.innovationacademy.kr/archives/2461)
 - [Dreyfus model](https://shallaa.postach.io/post/deuraipeoseu-model-dreyfus-model)
 - [우아한 멀티 모듈 세미나](https://hyeon9mak.github.io/woowahan-multi-module/)
+- [신규 Web 서비스 시 고려사항](https://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
 
 ### Docker
 - [Docker 사용 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
