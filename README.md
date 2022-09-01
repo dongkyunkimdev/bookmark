@@ -103,6 +103,7 @@
 ### Auth
 - [JWT](http://www.opennaru.com/opennaru-blog/jwt-json-web-token/)
 - [Cookie & Session](https://nesoy.github.io/articles/2017-03/Session-Cookie)
+- [Okta OAuth 2.0 and OpenID Connect Semina](https://www.youtube.com/watch?v=996OiexHze0)
 
 ### Http
 - [Http 응답코드, 메서드](https://javaplant.tistory.com/18)
