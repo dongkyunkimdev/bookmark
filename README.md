@@ -211,6 +211,7 @@
 ### 기타
 - [구글링 잘하는 법](https://zzang9ha.tistory.com/405)
 - [단순한 URL 구조 유지하기](https://developers.google.com/search/docs/advanced/guidelines/url-structure)
+- [뱅크샐러드 테크 스펙 작성법](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
 
 ### 협업
 - [지속가능한 SW 개발을 위한 코드리뷰 :: 4월 우아한테크세미나](https://www.youtube.com/watch?v=ssDMIcPBqUE&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
