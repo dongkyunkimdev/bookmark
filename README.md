@@ -132,6 +132,7 @@
 - [API 응답 객체 구조](https://oriondigestive.medium.com/api-%EC%9D%91%EB%8B%B5-%EA%B0%9D%EC%B2%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-7942e67379b1)
 - [API Call 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/api-call-guide.md)
 - [WebRTC](https://wormwlrm.github.io/2021/01/24/Introducing-WebRTC.html)
+- [그런 REST API로 괜찮은가 ](http://slides.com/eungjun/rest)
 
 ### Test
 - [Test 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/test-guide.md)
