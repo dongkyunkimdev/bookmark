@@ -85,6 +85,8 @@
 - [코드의 22가지 악취](https://kishe89.github.io/java/2018/01/04/java-refactoring-00-intro.html)
 - [Guard Clause](https://velog.io/@swhan9404/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-Guard-Clause)
 - [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=LSqbXorkyfQ)
+- [Java lint 코드정적분석 checkstyle 사용하기](https://nauni.tistory.com/m/275)
+- [자바 애플리케이션의 보안 검수 방법 살펴보기 with spotbugs](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 ### GoF Design Pattern
 - [Proxy 패턴의 사용 이유, 구현 및 Spring에서의 사용](https://www.youtube.com/watch?v=tes_ekyB6U8&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
