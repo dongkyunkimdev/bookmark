@@ -144,6 +144,7 @@
 - [Mockito vs BDDMockito](https://tecoble.techcourse.co.kr/post/2020-09-29-compare-mockito-bddmockito/)
 - [Spring MVC 예외 테스트](https://github.com/HomoEfficio/dev-tips/blob/master/SpringMVCTest%EC%97%90%EC%84%9C%EC%9D%98%20%EC%98%88%EC%99%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 - [Spock으로 테스트코드를 짜보자](https://techblog.woowahan.com/2560/)
+- [BDD로 테스트에 중독되어 보자](https://helloworld.kurly.com/blog/try-bdd/)
 
 ### Network
 - [TCP/IP](https://aws-hyoh.tistory.com/entry/TCPIP-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
