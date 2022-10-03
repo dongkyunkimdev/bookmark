@@ -171,6 +171,7 @@
 ### Linux
 - [Chmod](https://webisfree.com/2015-01-02/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9C%A0%EB%8B%89%EC%8A%A4-%ED%8C%8C%EC%9D%BC-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-777-755)
 - [서버 장애원인 파악](https://blog.hbsmith.io/linux-%EC%84%9C%EB%B2%84-%EC%9E%A5%EC%95%A0%EC%9B%90%EC%9D%B8-%ED%8C%8C%EC%95%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-7accec423bb5)
+- [Swap Memory 할당](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-memory-swap-file/)
 
 ### Database
 - [RDB vs NoSQL](https://khj93.tistory.com/entry/Database-RDBMS%EC%99%80-NOSQL-%EC%B0%A8%EC%9D%B4%EC%A0%90)
