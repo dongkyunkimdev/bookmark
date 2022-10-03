@@ -72,6 +72,7 @@
 - [Component, Configuration, Bean 차이](https://yhmane.tistory.com/129)
 - [의존성 주입 방식 3가지](https://woodcock.tistory.com/8)
 - [RestTemplate과 WebClient](https://tecoble.techcourse.co.kr/post/2021-07-25-resttemplate-webclient/)
+- [Spring Webflux 5.3.5 공식 레퍼런스 한국어 번역](https://araikuma.tistory.com/815?category=991358)
 
 ### Spring Security
 - [authenticate BadCredentialsException만 발생하는 이유](https://blog.devbong.com/95)
