@@ -47,6 +47,7 @@
 - [JVM Garbage Collectors의 종류](https://ckddn9496.tistory.com/155)
 - [try-with-resources](https://mangkyu.tistory.com/217?category=872426)
 - [Effective Java 핵심 요약](https://mangkyu.tistory.com/133)
+- [우아한형제들 Java Enum 활용기](https://techblog.woowahan.com/2527/)
 
 ### Data Structure
 - [Priority Queue](https://coding-factory.tistory.com/603)
