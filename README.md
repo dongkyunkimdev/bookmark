@@ -49,6 +49,7 @@
 - [try-with-resources](https://mangkyu.tistory.com/217?category=872426)
 - [Effective Java 핵심 요약](https://mangkyu.tistory.com/133)
 - [우아한형제들 Java Enum 활용기](https://techblog.woowahan.com/2527/)
+- [InetAddress 클래스로 인해 발생할 수 있는 성능 이슈](https://pkgonan.github.io/2018/06/InetAddress-getLocalHost)
 
 ### Kotlin
 - [스포카에서 Kotlin으로 JPA Entity를 정의하는 방법](https://spoqa.github.io/2022/08/16/kotlin-jpa-entity.html)
