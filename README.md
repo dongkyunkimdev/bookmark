@@ -22,11 +22,12 @@
 18. [Database](#database)
 19. [주옥같은 글](#주옥같은-글)
 20. [Docker](#docker)
-21. [MSA 아키텍처](#msa-아키텍처)
-22. [Computer Science](#computer-science)
-23. [보안](#보안)
-24. [기타](#기타)
-25. [협업](#협업)
+21. [MSA](#msa)
+22. [Architecture](#architecture)
+23. [Computer Science](#computer-science)
+24. [보안](#보안)
+25. [기타](#기타)
+26. [협업](#협업)
 
 ### Git
 - [Commit messages guide 01](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
@@ -206,7 +207,7 @@
 ### Docker
 - [Docker 사용 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 
-### MSA 아키텍처
+### MSA
 - [Two Phase Commit과 SAGA 패턴](https://azderica.github.io/01-architecture-msa/)
 - [MSA의 기준과 DB 분리](https://waspro.tistory.com/718)
 - [MSA의 분산 DB 설계](https://waspro.tistory.com/724)
@@ -214,7 +215,10 @@
 - [MSA DB 분리 설계](https://waspro.tistory.com/729)
 - [Eventual Consistency](https://velog.io/@soongjamm/Eventual-Consistency-%EB%9E%80)
 - [이벤트 소싱](https://mjspring.medium.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%86%8C%EC%8B%B1-event-sourcing-%EA%B0%9C%EB%85%90-50029f50f78c)
-- [이벤트 기반 아키텍처 ](https://techblog.woowahan.com/7835/)
+- [이벤트 기반 아키텍처](https://techblog.woowahan.com/7835/)
+
+### Architecture
+- [Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처](https://techblog.woowahan.com/12720/)
 
 ### Computer Science
 - [동기와 비동기, 블럭과 넌블럭](https://musma.github.io/2019/04/17/blocking-and-synchronous.html)
@@ -229,7 +233,7 @@
 - [구글링 잘하는 법](https://zzang9ha.tistory.com/405)
 - [단순한 URL 구조 유지하기](https://developers.google.com/search/docs/advanced/guidelines/url-structure)
 - [뱅크샐러드 테크 스펙 작성법](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
-- [f-lab Java 기술 면접 ](https://f-lab.kr/blog/java-backend-interview-1)
+- [f-lab Java 기술 면접](https://f-lab.kr/blog/java-backend-interview-1)
 - [개발자로 살아남는 방법](https://velog.io/@dnr6054/series/whiteship-soft-skill)
 
 ### 협업
