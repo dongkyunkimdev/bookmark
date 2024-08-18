@@ -1,5 +1,5 @@
 # bookmark
-나에게 유용한 개발 관련 링크를 보관합니다.
+A collection of useful programming-related links.
 
 ## Contents
 1. [Git](#git)
